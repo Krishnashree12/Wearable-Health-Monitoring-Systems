@@ -58,6 +58,14 @@ The collected data is processed by the ESP32 and transmitted wirelessly to the B
 
 <img width="790" height="513" alt="image" src="https://github.com/user-attachments/assets/819f4ecb-a56b-4ab5-a1be-b718474dbad8" />
 
+### Blynk Dashboard
+
+<img width="325" height="596" alt="image" src="https://github.com/user-attachments/assets/cfa39320-051c-4525-b4f8-07c5fc63a537" />
+
+### System Implementation
+
+<img width="392" height="294" alt="image" src="https://github.com/user-attachments/assets/54beed99-43d3-40df-85b8-74538e5d973f" />
+
 The system integrates multiple sensors with the ESP32 microcontroller to collect health and environmental data, which is transmitted wirelessly to the Blynk IoT platform for real-time monitoring.
 ## Software Stack
 

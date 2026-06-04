@@ -125,6 +125,16 @@ The system continuously monitors health parameters and helps users stay informed
 ✅ Real-Time Cloud Monitoring
 ✅ Wireless Data Access
 
+## Key Benefits
+
+- **Multi-Parameter Monitoring** – Continuously tracks heart rate, SpO₂, body temperature, physical activity, and UV exposure in a single wearable device.
+- **Real-Time Health Insights** – Provides live monitoring through the Blynk IoT platform, enabling users to access health data from mobile and web dashboards.
+- **Wireless Connectivity** – Uses Wi-Fi communication to transmit sensor data for remote monitoring and accessibility.
+- **Portable and Rechargeable** – Powered by a rechargeable battery, making the system suitable for continuous and on-the-go health monitoring.
+- **Health Awareness and Safety** – Generates alerts for abnormal heart rate readings and monitors UV exposure to encourage preventive health measures.
+- **User-Friendly Interface** – Presents health information through an intuitive dashboard for easy interpretation and tracking.
+- **Scalable Design** – Supports future integration of additional sensors and advanced health monitoring capabilities.
+
 ## Results
 
 The developed wearable health monitoring system successfully monitored and transmitted the following parameters in real time:
